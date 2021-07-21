@@ -17,7 +17,7 @@ The earthquake data collected from the USGS contains data from earthquakes world
 
 ### Results
 
-To access the website, please [Click Here](https://bluckoo.github.io/Module_13_Earthquakes_Challenge/).
+To access the website, please [Click Here](https://bluckoo.github.io/Mapping_Earthquakes/).
 
 The map is interactive and the user can use the toggle button on the upper right of the page to select the following:
 
