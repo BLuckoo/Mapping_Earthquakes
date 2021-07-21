@@ -33,22 +33,29 @@ The toggle elements for earthquake information can each be selected separately o
 
 ### Example of Interactive Map Views
 
+
 1. Street view showing all earthquakes:
+
 
 <p align="center">
 <img width="953" alt="Street view showing all earthquakes" src="https://user-images.githubusercontent.com/82583576/126418327-83da8d69-6f16-42e6-b8c7-5c0fe98c6c86.PNG">
 </p>
 
+
 2. Satellite Street view showing major earthquakes, a popup showing the magnitude & location, and the tectonic plates:
+
 
 <p align="center">
 <img width="949" alt="Staellite view showing major earthquakes and tectonic plates" src="https://user-images.githubusercontent.com/82583576/126418884-a58060e1-7557-405a-8785-da91f1134e14.PNG">
 </p>
 
+
 3. Dark view showing all earthquakes, the tectonic plates and a popup with the magnitude and location of the earthquake.
 
 <p align="center">
-<img width="953" alt="Dark view with all earthquakesand tectonic plates" src="https://user-images.githubusercontent.com/82583576/126419305-4ec65262-dd7a-4fdf-a1a4-25f23e2d663c.PNG">
+<img width="957" alt="Dark view with all earthquakes and tectonic plates" src="https://user-images.githubusercontent.com/82583576/126423812-8dedb9f8-0c1e-45ec-87f8-71cb75dba3f1.PNG">
 </p>
+
+
 
 This project was very informative - please try the interactive maps and learn more about earthquakes!!
