@@ -4,11 +4,9 @@
 
 The objective of this project is to gather earthquake data from the U.S. Geological Survey ("USGS") website and to create interactive maps of earthquakes around the world.
 
-The earthquake data collected from the USGS contains data from earthquakes worldwide over the past week. 
-
 - This data has been extracted and loaded as a GeoJSON file, a type of JSON data specifically designed to hold geographical information. 
 - The final map contains the earthquake data represented as circular markers with their size and color corresponding to the magnitude of the earthquake. Each marker also has a popup that displays the magnitude and location of the earthquake. 
-- The map also contains multiple viewing layers (from the Leaflet JavaScript library, i.e. streets, satellite-streets and dark) and the ability to toggle visibility of the earthquake data (for example, no earthquake markings, earthquake markings and tectonic plates).  
+- The map also contains multiple viewing layers and information about the earthquakes, which can all be selected using the toggle feature at the top right corner of the website.  
 
 ### Resources
 
@@ -19,7 +17,7 @@ The earthquake data collected from the USGS contains data from earthquakes world
 
 To access the website, please [Click Here](https://bluckoo.github.io/Mapping_Earthquakes_Challenge/).
 
-The map is interactive and the user can use the toggle button on the upper right of the page to select the following:
+The map is interactive and the user can select the following from the toggle button:
 
 - Type of view:
   - Streets - daylight map showing a map of the world with the country names;
@@ -27,11 +25,11 @@ The map is interactive and the user can use the toggle button on the upper right
   - Dark - a dark version of the world map.
 
 - Earthquake information:
-  - Earthquakes - shows all earthquakes around the world, with a bubble marker whose color and size is depending on the magnitude of the earthquake;
-  - Tectonic plates - an red overlay indicating the location of the tectonic plates around the world;
-  - Major Earthquakes - the major earthquakes with a magnitude of 4.5 and above are illustrated as bubbles of different size and color depending on their magnitudes.
+  - Earthquakes - shows all earthquakes around the world, with a bubble marker whose color and size depends on the magnitude of the earthquake;
+  - Tectonic plates - a red overlay indicating the location of the tectonic plates around the world;
+  - Major Earthquakes - major earthquakes with a magnitude of 4.5 and above are illustrated as bubbles of different size and color depending on their magnitudes.
   
-Please note that the toggle elements for earthquake information can each be selected alone or together to illustrate the elements.
+The toggle elements for earthquake information can each be selected separately or in combination to illustrate the elements.
 
 ### Example of Interactive Map Views
 
@@ -53,4 +51,4 @@ Please note that the toggle elements for earthquake information can each be sele
 <img width="953" alt="Dark view with all earthquakesand tectonic plates" src="https://user-images.githubusercontent.com/82583576/126419305-4ec65262-dd7a-4fdf-a1a4-25f23e2d663c.PNG">
 </p>
 
-This project was fun - please try the interactive maps and learn more about earthquakes!!
+This project was very informative - please try the interactive maps and learn more about earthquakes!!
